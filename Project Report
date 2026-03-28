@@ -1,1 +1,100 @@
+📘 CAPSTONE PROJECT REPORT
 
+Student Expense Tracker System
+1. Introduction
+
+In today’s fast-paced digital world, students often struggle with managing their daily expenses. Without proper tracking, it becomes difficult to understand spending habits and maintain financial discipline. This project, **Student Expense Tracker**, is designed to help students monitor and manage their expenses efficiently.
+
+2. Problem Statement
+
+Many students face the following issues:
+
+* Lack of awareness about daily spending
+* Difficulty in saving money
+* No proper record of expenses
+* Poor financial planning
+
+There is a need for a simple and effective system to track and analyze expenses.
+
+3. Objective
+
+The main objectives of this project are:
+
+* To develop a simple expense tracking system using Python
+* To help students record daily expenses
+* To categorize spending for better understanding
+* To calculate total and category-wise expenses
+
+4. Proposed Solution
+
+The proposed solution is a **command-line based Expense Tracker** that allows users to:
+
+* Add expenses
+* View all expenses
+* Calculate total spending
+* Analyze category-wise spending
+
+This system is easy to use and requires minimal technical knowledge.
+
+5. Tools and Technologies Used
+
+* Programming Language: Python
+* Concepts Used:
+
+  * Lists and Dictionaries
+  * Functions
+  * Loops and Conditionals
+  * User Input/Output
+
+6. System Design
+6.1 Data Structure
+
+Each expense is stored as a dictionary with the following fields:
+
+* Date
+* Category
+* Amount
+* Description
+
+All expenses are stored in a list.
+
+6.2 Functional Modules
+
+1. Add Expense
+2. View Expenses
+3. Total Spending
+4. Category Summary
+5. Exit
+
+7. Advantages
+
+* Easy to use
+* Helps in budgeting
+* Improves financial awareness
+* Lightweight and fast
+
+8. Limitations
+
+* Data is not stored permanently
+* No graphical interface
+* Limited to command-line usage
+
+9. Future Enhancements
+
+* Add file storage (save/load data)
+* Develop graphical user interface (GUI)
+* Add charts and data visualization
+* Mobile app integration
+
+10. Conclusion
+
+The Student Expense Tracker is a simple yet effective tool for managing personal finances. It helps students develop better spending habits and promotes financial discipline. This project demonstrates how programming can be applied to solve real-life problems.
+
+11. References
+
+* Python Official Documentation
+* Basic Programming Concepts Notes
+
+
+
+End of Report
